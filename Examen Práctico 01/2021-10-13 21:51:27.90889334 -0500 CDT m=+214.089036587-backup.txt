@@ -1,0 +1,4 @@
+Hola soy el cliente 1
+Hola, soy el cliente 2
+test.txt
+OrdenDePago.pdf
